@@ -1,0 +1,1 @@
+"USB\Device\VendorDefinedDev.C" BROWSE DEBUG OBJECTEXTEND PRINT(.\Listings\VendorDefinedDev.lst) OBJECT(.\Objects\VendorDefinedDev.obj)

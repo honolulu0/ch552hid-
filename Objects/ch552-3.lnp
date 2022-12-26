@@ -1,0 +1,4 @@
+".\Objects\CompositeKM.obj",
+".\Objects\Debug.obj" 
+TO ".\Objects\ch552-3" 
+PRINT(".\Listings\ch552-3.m51") RAMSIZE(256) 
